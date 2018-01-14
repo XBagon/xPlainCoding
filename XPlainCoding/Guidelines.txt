@@ -1,0 +1,15 @@
+﻿MAKE (makes a class and instantiates):
+<make synonym> <type>
+
+	Make a number => int i;
+	Make a car => Car car0 = new Car();
+
+NAME (names a variable or field):
+<name synonym> <name>
+
+	it's named age => int age;
+	called fastcar => Car fastcar => new Car();
+
+INIT (sets an init value):
+
+IS (sets variable type):
